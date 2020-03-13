@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadedFactorial", "ThreadedFactorial\ThreadedFactorial.csproj", "{BD720645-EBD0-4E51-9449-AEFFAF96314A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD720645-EBD0-4E51-9449-AEFFAF96314A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD720645-EBD0-4E51-9449-AEFFAF96314A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD720645-EBD0-4E51-9449-AEFFAF96314A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD720645-EBD0-4E51-9449-AEFFAF96314A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEEED32C-51AE-4256-8BD1-BA76EDC99B6B}
+	EndGlobalSection
+EndGlobal
